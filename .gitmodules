@@ -7,4 +7,4 @@
 [submodule "umqtt"]
 	path = umqtt
 	url = https://github.com/Azure/azure-umqtt-c.git
-	branch = release_2017_09_08
+	branch = master
